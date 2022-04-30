@@ -1,4 +1,5 @@
 # NotepadDemo
+Input Actions Method
 Automating notepad to type the text, change font and size. save the file.
 Enter the text to be written in notepad and file name using Input Dialog activity
 Open notepad application
